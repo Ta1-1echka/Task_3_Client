@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">News Client</string>
+
+    <!--MainActivity-->
+    <string name="button_add">Add news</string>
+    <string name="button_delete">Delete news</string>
+    <string name="title">Title</string>
+    <string name="contenet">Content</string>
+</resources>
